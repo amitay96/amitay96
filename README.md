@@ -11,37 +11,28 @@ Whether you're an employer, a fellow developer, or just someone with an interest
 
 ### Frontend
 
-* <img src="https://cdn.svgporn.com/logos/react.svg" width="20"> React
-* <img src="https://cdn.svgporn.com/logos/redux.svg" width="20"> Redux
-* <img src="https://cdn.svgporn.com/logos/html-5.svg" width="20"> HTML5
-* <img src="https://cdn.svgporn.com/logos/css-3.svg" width="20"> CSS3
-* <img src="https://cdn.svgporn.com/logos/javascript.svg" width="20"> JavaScript
-* <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="20"> TypeScript
+<img src="https://cdn.svgporn.com/logos/react.svg" width="30"> React &nbsp;&nbsp;
+<img src="https://cdn.svgporn.com/logos/redux.svg" width="30"> Redux &nbsp;&nbsp;
+<img src="https://cdn.svgporn.com/logos/html-5.svg" width="30"> HTML5 &nbsp;&nbsp;
+<img src="https://cdn.svgporn.com/logos/css-3.svg" width="30"> CSS3 &nbsp;&nbsp;
+<img src="https://cdn.svgporn.com/logos/javascript.svg" width="30"> JavaScript &nbsp;&nbsp;
+<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="30"> TypeScript &nbsp;&nbsp;
 
 ### Backend
 
-* <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="20"> Node.js
-* <img src="https://cdn.svgporn.com/logos/express.svg" width="20"> Express.js
-* <img src="https://cdn.svgporn.com/logos/python.svg" width="20"> Python
-* <img src="https://cdn.svgporn.com/logos/django.svg" width="20"> Django
-* <img src="https://cdn.svgporn.com/logos/flask.svg" width="20"> Flask
-* <img src="https://cdn.svgporn.com/logos/spring-icon.svg" width="20"> Spring Boot
+<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="30"> Node.js &nbsp;&nbsp;
+<img src="https://cdn.svgporn.com/logos/express.svg" width="30"> Express.js &nbsp;&nbsp;
 
 ### Database
 
-* <img src="https://cdn.svgporn.com/logos/mongodb.svg" width="20"> MongoDB
-* <img src="https://cdn.svgporn.com/logos/mysql.svg" width="20"> MySQL
-* <img src="https://cdn.svgporn.com/logos/postgresql.svg" width="20"> PostgreSQL
-* <img src="https://cdn.svgporn.com/logos/sqlite.svg" width="20"> SQLite
-* <img src="https://cdn.svgporn.com/logos/firebase.svg" width="20"> Firebase
+<img src="https://cdn.svgporn.com/logos/mongodb.svg" width="30"> MongoDB &nbsp;&nbsp;
+<img src="https://cdn.svgporn.com/logos/sqlite.svg" width="30"> SQLite &nbsp;&nbsp;
 
 ### Other
 
-* <img src="https://cdn.svgporn.com/logos/git-icon.svg" width="20"> Git
-* <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" width="20"> VS Code
-* <img src="https://cdn.svgporn.com/logos/jira.svg" width="20"> Jira
-* <img src="https://cdn.svgporn.com/logos/postman.svg" width="20"> Postman
-* <img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="20"> Docker
+<img src="https://cdn.svgporn.com/logos/git-icon.svg" width="30"> Git &nbsp;&nbsp;
+<img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" width="30"> VS Code &nbsp;&nbsp;
+<img src="https://cdn.svgporn.com/logos/postman.svg" width="30"> Postman &nbsp;&nbsp;
 
 ## 🚀 Projects
 
