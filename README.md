@@ -9,17 +9,14 @@ Whether you're an employer, a fellow developer, or just someone with an interest
 
 ## 💻 Technologies
 
-<div align="center">
-  <img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="React" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/100/000000/redux.png" alt="Redux" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/100/000000/html-5.png" alt="HTML" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/100/000000/css3.png" alt="CSS" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/100/000000/javascript.png" alt="JavaScript" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/100/000000/nodejs.png" alt="Node.js" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/100/000000/express.png" alt="Express.js" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/100/000000/mongodb.png" alt="MongoDB" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/100/000000/git.png" alt="Git" width="50" height="50"/>
-</div>
+| Frontend | Backend | Database | Other |
+| --- | --- | --- | --- |
+| ![React](https://img.icons8.com/plasticine/100/000000/react.png)<br>React | ![Node.js](https://img.icons8.com/color/100/000000/nodejs.png)<br>Node.js | ![MongoDB](https://img.icons8.com/color/100/000000/mongodb.png)<br>MongoDB | ![Git](https://img.icons8.com/color/100/000000/git.png)<br>Git |
+| ![Redux](https://img.icons8.com/color/100/000000/redux.png)<br>Redux | ![Express.js](https://img.icons8.com/office/100/000000/express.png)<br>Express.js | ![MySQL](https://img.icons8.com/color/100/000000/mysql-logo.png)<br>MySQL | ![VS Code](https://img.icons8.com/color/100/000000/visual-studio-code-2019.png)<br>VS Code |
+| ![HTML5](https://img.icons8.com/color/100/000000/html-5.png)<br>HTML5 | ![Python](https://img.icons8.com/color/100/000000/python.png)<br>Python | ![PostgreSQL](https://img.icons8.com/color/100/000000/postgresql.png)<br>PostgreSQL | ![Jira](https://img.icons8.com/color/100/000000/jira.png)<br>Jira |
+| ![CSS3](https://img.icons8.com/color/100/000000/css3.png)<br>CSS3 | ![Django](https://img.icons8.com/color/100/000000/django.png)<br>Django | ![Firebase](https://img.icons8.com/color/100/000000/firebase.png)<br>Firebase | ![Postman](https://img.icons8.com/dusk/100/000000/postman-api.png)<br>Postman |
+| ![JavaScript](https://img.icons8.com/color/100/000000/javascript.png)<br>JavaScript | ![Flask](https://img.icons8.com/color/100/000000/flask.png)<br>Flask | ![SQLite](https://img.icons8.com/color/100/000000/sqlite.png)<br>SQLite | ![Docker](https://img.icons8.com/color/100/000000/docker.png)<br>Docker |
+| ![TypeScript](https://img.icons8.com/color/100/000000/typescript.png)<br>TypeScript | ![Spring Boot](https://img.icons8.com/color/100/000000/spring-logo.png)<br>
 
 ## 🚀 Projects
 
