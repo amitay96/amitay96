@@ -9,14 +9,39 @@ Whether you're an employer, a fellow developer, or just someone with an interest
 
 ## 💻 Technologies
 
-| Frontend | Backend | Database | Other |
-| --- | --- | --- | --- |
-| ![React](https://img.icons8.com/plasticine/100/000000/react.png)<br>React | ![Node.js](https://img.icons8.com/color/100/000000/nodejs.png)<br>Node.js | ![MongoDB](https://img.icons8.com/color/100/000000/mongodb.png)<br>MongoDB | ![Git](https://img.icons8.com/color/100/000000/git.png)<br>Git |
-| ![Redux](https://img.icons8.com/color/100/000000/redux.png)<br>Redux | ![Express.js](https://img.icons8.com/office/100/000000/express.png)<br>Express.js | ![MySQL](https://img.icons8.com/color/100/000000/mysql-logo.png)<br>MySQL | ![VS Code](https://img.icons8.com/color/100/000000/visual-studio-code-2019.png)<br>VS Code |
-| ![HTML5](https://img.icons8.com/color/100/000000/html-5.png)<br>HTML5 | ![Python](https://img.icons8.com/color/100/000000/python.png)<br>Python | ![PostgreSQL](https://img.icons8.com/color/100/000000/postgresql.png)<br>PostgreSQL | ![Jira](https://img.icons8.com/color/100/000000/jira.png)<br>Jira |
-| ![CSS3](https://img.icons8.com/color/100/000000/css3.png)<br>CSS3 | ![Django](https://img.icons8.com/color/100/000000/django.png)<br>Django | ![Firebase](https://img.icons8.com/color/100/000000/firebase.png)<br>Firebase | ![Postman](https://img.icons8.com/dusk/100/000000/postman-api.png)<br>Postman |
-| ![JavaScript](https://img.icons8.com/color/100/000000/javascript.png)<br>JavaScript | ![Flask](https://img.icons8.com/color/100/000000/flask.png)<br>Flask | ![SQLite](https://img.icons8.com/color/100/000000/sqlite.png)<br>SQLite | ![Docker](https://img.icons8.com/color/100/000000/docker.png)<br>Docker |
-| ![TypeScript](https://img.icons8.com/color/100/000000/typescript.png)<br>TypeScript | ![Spring Boot](https://img.icons8.com/color/100/000000/spring-logo.png)<br>
+### Frontend
+
+* <img src="https://cdn.svgporn.com/logos/react.svg" width="20"> React
+* <img src="https://cdn.svgporn.com/logos/redux.svg" width="20"> Redux
+* <img src="https://cdn.svgporn.com/logos/html-5.svg" width="20"> HTML5
+* <img src="https://cdn.svgporn.com/logos/css-3.svg" width="20"> CSS3
+* <img src="https://cdn.svgporn.com/logos/javascript.svg" width="20"> JavaScript
+* <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="20"> TypeScript
+
+### Backend
+
+* <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="20"> Node.js
+* <img src="https://cdn.svgporn.com/logos/express.svg" width="20"> Express.js
+* <img src="https://cdn.svgporn.com/logos/python.svg" width="20"> Python
+* <img src="https://cdn.svgporn.com/logos/django.svg" width="20"> Django
+* <img src="https://cdn.svgporn.com/logos/flask.svg" width="20"> Flask
+* <img src="https://cdn.svgporn.com/logos/spring-icon.svg" width="20"> Spring Boot
+
+### Database
+
+* <img src="https://cdn.svgporn.com/logos/mongodb.svg" width="20"> MongoDB
+* <img src="https://cdn.svgporn.com/logos/mysql.svg" width="20"> MySQL
+* <img src="https://cdn.svgporn.com/logos/postgresql.svg" width="20"> PostgreSQL
+* <img src="https://cdn.svgporn.com/logos/sqlite.svg" width="20"> SQLite
+* <img src="https://cdn.svgporn.com/logos/firebase.svg" width="20"> Firebase
+
+### Other
+
+* <img src="https://cdn.svgporn.com/logos/git-icon.svg" width="20"> Git
+* <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" width="20"> VS Code
+* <img src="https://cdn.svgporn.com/logos/jira.svg" width="20"> Jira
+* <img src="https://cdn.svgporn.com/logos/postman.svg" width="20"> Postman
+* <img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="20"> Docker
 
 ## 🚀 Projects
 
