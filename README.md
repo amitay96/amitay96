@@ -11,28 +11,28 @@ Whether you're an employer, a fellow developer, or just someone with an interest
 
 ### Frontend
 
-<img src="https://cdn.svgporn.com/logos/react.svg" width="30"> React &nbsp;&nbsp;
-<img src="https://cdn.svgporn.com/logos/redux.svg" width="30"> Redux &nbsp;&nbsp;
-<img src="https://cdn.svgporn.com/logos/html-5.svg" width="30"> HTML5 &nbsp;&nbsp;
-<img src="https://cdn.svgporn.com/logos/css-3.svg" width="30"> CSS3 &nbsp;&nbsp;
-<img src="https://cdn.svgporn.com/logos/javascript.svg" width="30"> JavaScript &nbsp;&nbsp;
-<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="30"> TypeScript &nbsp;&nbsp;
+<img src="https://img.icons8.com/color/35/000000/react-native.png"/> React <br />
+<img src="https://img.icons8.com/color/35/000000/redux.png"/> Redux <br />
+<img src="https://img.icons8.com/color/35/000000/html-5.png"/> HTML5 <br />
+<img src="https://img.icons8.com/color/35/000000/css3.png"/> CSS3 <br />
+<img src="https://img.icons8.com/color/35/000000/javascript.png"/> JavaScript <br />
+<img src="https://img.icons8.com/color/35/000000/typescript.png"/> TypeScript <br />
 
 ### Backend
 
-<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="30"> Node.js &nbsp;&nbsp;
-<img src="https://cdn.svgporn.com/logos/express.svg" width="30"> Express.js &nbsp;&nbsp;
+<img src="https://img.icons8.com/color/35/000000/nodejs.png"/> Node.js <br />
+<img src="https://img.icons8.com/color/35/000000/express.png"/> Express.js <br />
 
 ### Database
 
-<img src="https://cdn.svgporn.com/logos/mongodb.svg" width="30"> MongoDB &nbsp;&nbsp;
-<img src="https://cdn.svgporn.com/logos/sqlite.svg" width="30"> SQLite &nbsp;&nbsp;
+<img src="https://img.icons8.com/color/35/000000/mongodb.png"/> MongoDB <br />
+<img src="https://img.icons8.com/color/35/000000/sqlite.png"/> SQLite <br />
 
 ### Other
 
-<img src="https://cdn.svgporn.com/logos/git-icon.svg" width="30"> Git &nbsp;&nbsp;
-<img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" width="30"> VS Code &nbsp;&nbsp;
-<img src="https://cdn.svgporn.com/logos/postman.svg" width="30"> Postman &nbsp;&nbsp;
+<img src="https://img.icons8.com/color/35/000000/git.png"/> Git <br />
+<img src="https://img.icons8.com/color/35/000000/visual-studio-code-2019.png"/> VS Code <br />
+<img src="https://img.icons8.com/color/35/000000/postman-api.png"/> Postman <br />
 
 ## 🚀 Projects
 
