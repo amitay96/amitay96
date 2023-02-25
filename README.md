@@ -11,28 +11,28 @@ Whether you're an employer, a fellow developer, or just someone with an interest
 
 ### Frontend
 
-<img src="https://img.icons8.com/color/35/000000/react-native.png"/> React <br />
-<img src="https://img.icons8.com/color/35/000000/redux.png"/> Redux <br />
-<img src="https://img.icons8.com/color/35/000000/html-5.png"/> HTML5 <br />
-<img src="https://img.icons8.com/color/35/000000/css3.png"/> CSS3 <br />
-<img src="https://img.icons8.com/color/35/000000/javascript.png"/> JavaScript <br />
-<img src="https://img.icons8.com/color/35/000000/typescript.png"/> TypeScript <br />
+React <br><img src="https://img.icons8.com/color/48/000000/react-native.png" width="35"><br>
+Redux <br><img src="https://img.icons8.com/color/48/000000/redux.png" width="35"><br>
+HTML5 <br><img src="https://img.icons8.com/color/48/000000/html-5.png" width="35"><br>
+CSS3 <br><img src="https://img.icons8.com/color/48/000000/css3.png" width="35"><br>
+JavaScript <br><img src="https://img.icons8.com/color/48/000000/javascript.png" width="35"><br>
+TypeScript <br><img src="https://img.icons8.com/color/48/000000/typescript.png" width="35"><br>
 
 ### Backend
 
-<img src="https://img.icons8.com/color/35/000000/nodejs.png"/> Node.js <br />
-<img src="https://img.icons8.com/color/35/000000/express.png"/> Express.js <br />
+Node.js <br><img src="https://img.icons8.com/color/48/000000/nodejs.png" width="35"><br>
+Express.js <br><img src="https://img.icons8.com/ios-filled/50/000000/express.png" width="35"><br>
 
 ### Database
 
-<img src="https://img.icons8.com/color/35/000000/mongodb.png"/> MongoDB <br />
-<img src="https://img.icons8.com/color/35/000000/sqlite.png"/> SQLite <br />
+MongoDB <br><img src="https://img.icons8.com/color/48/000000/mongodb.png" width="35"><br>
+SQLite <br><img src="https://img.icons8.com/color/48/000000/sqlite.png" width="35"><br>
 
 ### Other
 
-<img src="https://img.icons8.com/color/35/000000/git.png"/> Git <br />
-<img src="https://img.icons8.com/color/35/000000/visual-studio-code-2019.png"/> VS Code <br />
-<img src="https://img.icons8.com/color/35/000000/postman-api.png"/> Postman <br />
+Git <br><img src="https://img.icons8.com/color/48/000000/git.png" width="35"><br>
+VS Code <br><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="35"><br>
+Postman <br><img src="https://img.icons8.com/color/48/000000/postman-api.png" width="35"><br>
 
 ## 🚀 Projects
 
