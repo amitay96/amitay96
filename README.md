@@ -9,14 +9,67 @@ Whether you're an employer, a fellow developer, or just someone with an interest
 
 ## 💻 Technologies
 
-| Frontend | Backend | Database | Other |
-| --- | --- | --- | --- |
-| <img src="https://img.icons8.com/color/35/000000/react-native.png"/> React | <img src="https://img.icons8.com/color/35/000000/nodejs.png"/> Node.js | <img src="https://img.icons8.com/color/35/000000/mongodb.png"/> MongoDB | <img src="https://img.icons8.com/color/35/000000/git.png"/> Git |
-| <img src="https://img.icons8.com/color/35/000000/redux.png"/> Redux | <img src="https://img.icons8.com/color/35/000000/express.png"/> Express.js | <img src="https://img.icons8.com/color/35/000000/sql.png"/> SQLite | <img src="https://img.icons8.com/color/35/000000/visual-studio-code-2019.png"/> VS Code |
-| <img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> HTML5 | | | <img src="https://img.icons8.com/color/35/000000/postman-api.png"/> Postman |
-| <img src="https://img.icons8.com/color/35/000000/css3.png"/> CSS3 | | | |
-| <img src="https://img.icons8.com/color/35/000000/javascript--v2.png"/> JavaScript | | | |
-| <img src="https://img.icons8.com/color/35/000000/typescript.png"/> TypeScript | | | |
+### Frontend
+
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://img.icons8.com/color/96/000000/react-native.png"/></td>
+    <td align="center" width="96"><img src="https://img.icons8.com/color/96/000000/redux.png"/></td>
+    <td align="center" width="96"><img src="https://img.icons8.com/color/96/000000/html-5.png"/></td>
+    <td align="center" width="96"><img src="https://img.icons8.com/color/96/000000/css3.png"/></td>
+    <td align="center" width="96"><img src="https://img.icons8.com/color/96/000000/javascript.png"/></td>
+    <td align="center" width="96"><img src="https://img.icons8.com/color/96/000000/typescript.png"/></td>
+  </tr>
+  <tr>
+    <td align="center">React</td>
+    <td align="center">Redux</td>
+    <td align="center">HTML5</td>
+    <td align="center">CSS3</td>
+    <td align="center">JavaScript</td>
+    <td align="center">TypeScript</td>
+  </tr>
+</table>
+
+### Backend
+
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://img.icons8.com/color/96/000000/nodejs.png"/></td>
+    <td align="center" width="96"><img src="https://img.icons8.com/color/96/000000/express.png"/></td>
+  </tr>
+  <tr>
+    <td align="center">Node.js</td>
+    <td align="center">Express.js</td>
+  </tr>
+</table>
+
+### Database
+
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://img.icons8.com/color/96/000000/mongodb.png"/></td>
+    <td align="center" width="96"><img src="https://img.icons8.com/color/96/000000/sql.png"/></td>
+  </tr>
+  <tr>
+    <td align="center">MongoDB</td>
+    <td align="center">SQLite</td>
+  </tr>
+</table>
+
+### Other
+
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://img.icons8.com/color/96/000000/git.png"/></td>
+    <td align="center" width="96"><img src="https://img.icons8.com/fluent/96/000000/visual-studio-code-2019.png"/></td>
+    <td align="center" width="96"><img src="https://img.icons8.com/color/96/000000/postman-api.png"/></td>
+  </tr>
+  <tr>
+    <td align="center">Git</td>
+    <td align="center">VS Code</td>
+    <td align="center">Postman</td>
+  </tr>
+</table>
 
 
 ## 🚀 Projects
