@@ -11,7 +11,7 @@ Whether you're an employer, a fellow developer, or just someone with an interest
 
 ### Frontend
 
-React Redux HTML5 CSS3 JavaScript TypeScript <br>
+React   Redux   HTML5  CSS3   JavaScript  TypeScript <br>
 <img src="https://img.icons8.com/color/48/000000/react-native.png" width="35">
 <img src="https://img.icons8.com/color/48/000000/redux.png" width="35">
 <img src="https://img.icons8.com/color/48/000000/html-5.png" width="35">
