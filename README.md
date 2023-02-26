@@ -62,7 +62,7 @@ Whether you're an employer, a fellow developer, or just someone with an interest
   <tr>
     <td align="center" width="96"><img src="https://img.icons8.com/color/96/000000/git.png"/></td>
     <td align="center" width="96"><img src="https://img.icons8.com/fluent/96/000000/visual-studio-code-2019.png"/></td>
-    <td align="center" width="96"><img src="https://img.icons8.com/color/96/000000/postman-api.png"/></td>
+    <td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/postman.svg"/></td>
   </tr>
   <tr>
     <td align="center">Git</td>
